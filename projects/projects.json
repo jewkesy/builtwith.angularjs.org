@@ -40,7 +40,7 @@
   },
   {
     "name": "buzzlike",
-    "thumb": "buzzlike/thumb.png", 
+    "thumb": "buzzlike/thumb.png",
     "desc": "Digital content interaction tool",
     "url": "http://buzzlike.pro",
     "info": "http://buzzlike.pro/#/about/project",
@@ -1458,7 +1458,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1633,8 +1633,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1731,18 +1731,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
@@ -3624,6 +3624,35 @@
         "Security",
         "Socket.io",
         "Jade"
+      ]
+    },
+    {
+      "name": "FormulaOneStats",
+      "thumb": "formula-one-stats/thumb.png",
+      "desc": "Web application displaying current and historical statistics for Formula 1",
+      "url": "http://jewkesy.github.io/FormulaOne/",
+      "info": "http://www.daryljewkes.com",
+      "src": "https://github.com/jewkesy/FormulaOne",
+      "submitter": "jewkesy",
+      "submissionDate": "2015-01-15",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "Sport",
+        "REST",
+        "Data Visualisation",
+        "Wikipedia",
+        "API",
+        "Statistics",
+        "jQuery",
+        "JSON",
+        "UI Router",
+        "Bootstrap",
+        "Mobile",
+        "Node.JS",
+        "MongoDB",
+        "Open Source",
+        "Bootstrap"
       ]
     }
 
